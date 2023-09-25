@@ -1,2 +1,2 @@
 import os
-os.system('chmod 777 KIDZ;/.KIDZ')
+os.system('chmod 777 KIDZ;./KIDZ')
