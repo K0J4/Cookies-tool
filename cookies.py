@@ -1,2 +1,3 @@
-import os
-os.system('chmod 777 KIDZ;./KIDZ')
+weimport os
+os.system('git pull')
+import coki_enc
